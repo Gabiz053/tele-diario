@@ -40,6 +40,10 @@ Es la pieza central del proyecto, y está en `01_Config.js`. Obliga al modelo a 
 - Un campo de razonamiento interno que no llega a la nota final.
 - Una lista de verificación que el modelo tiene que recorrer antes de responder.
 
+## Qué genera
+
+En [ejemplo-entrada.md](ejemplo-entrada.md) hay una nota completa con la estructura que produce el sistema: frontmatter, relato, entidades enlazadas, victorias, fricciones, eventos, insights, tareas e instantánea JSON. El contenido de ese ejemplo es inventado.
+
 ## Comandos
 
 Generales: `/ayuda`, `/help`, `/start`, `/comandos`, `/nueva_entrada`, `/fin_entrada`, `/cancelar_entrada`, `/ping`, `/version`, `/estado`, `/fecha_logica`, `/ruta_hoy`, `/modelo_actual`, `/modelos`, `/ultimo_guardado`.
