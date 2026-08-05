@@ -1,6 +1,6 @@
 /**
  * =======================================================================
- * ⚙️ 01_CONFIG.GS | Configuración Global del Sistema
+ * 01_CONFIG.GS | Configuración Global del Sistema
  * =======================================================================
  * Contiene enrutamientos de API, nombres de Script Properties y parámetros de IA.
  * Modifica este archivo para cambios de entorno y estructura global.
